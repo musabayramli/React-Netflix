@@ -7,7 +7,7 @@ function ProfileContext({ children }) {
     const [profiles, setProfiles] = useState([
         {
             id: 1,
-            name: 'Xezer',
+            name: 'BMM USER',
             avatar: user
         },
     ])
