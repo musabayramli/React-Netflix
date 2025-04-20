@@ -39,7 +39,7 @@ function Step1() {
 
     return (
         <main className="px-4 max-w-[1100px] mx-auto flex justify-center items-center min-h-[700px]">
-            <div className="max-w-[500px] mx-auto py-8">
+            <div className="max-w-[500px] mx-auto py-8 mb-[20px] ">
                 <p className="uppercase text-sm">step <span className="font-semibold"> 1 </span> of <span className="font-semibold">3</span></p>
                 <h1 className="text-3xl font-semibold text-[#333]">Create a password to start your membership</h1>
                 <p className="text-lg py-2 leading-5 max-w-[320px]">Just a few more steps and you're done!
